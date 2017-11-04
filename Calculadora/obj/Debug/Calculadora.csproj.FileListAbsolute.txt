@@ -1,0 +1,49 @@
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Formando\Documents\Cet22\Disciplinas\Programação\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Nash\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Nash\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Nash\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Nash\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Nash\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Nash\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+G:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+G:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\ap\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\ap\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
